@@ -4,6 +4,8 @@
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
+    "gh-pages": "^6.2.0",
+    "Package": "^0.0.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-scripts": "5.0.1"
@@ -13,7 +15,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-     "predeploy":"npm run  build",
+    "predeploy": "npm run  build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
@@ -34,5 +36,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://MaryamMuzzammil.github.io/Color-Change-App"
+  "homepage": "https://MaryamMuzzammil.github.io/Text-Tool-box"
 }
