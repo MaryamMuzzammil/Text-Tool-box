@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Text-Tool-box/static/css/main.e8ba7441.css",
+    "main.js": "/Text-Tool-box/static/js/main.41a877a0.js",
+    "index.html": "/Text-Tool-box/index.html",
+    "main.e8ba7441.css.map": "/Text-Tool-box/static/css/main.e8ba7441.css.map",
+    "main.41a877a0.js.map": "/Text-Tool-box/static/js/main.41a877a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8ba7441.css",
+    "static/js/main.41a877a0.js"
+  ]
+}
